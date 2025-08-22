@@ -2,7 +2,7 @@
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
-This custom integration allows you to control and monitor devices connected to an NC-2 Controller within Home Assistant.
+This custom integration allows you to control and monitor devices connected to an [NC-2 Controller](https://ambiot.io/products/nc-2) within Home Assistant.
 
 It uses the official REST API for control and listens to the MQTT broker for instant status updates.
 
