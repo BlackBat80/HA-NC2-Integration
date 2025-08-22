@@ -7,5 +7,6 @@
   "documentation": "https://github.com/BlackBat80/NC-2/blob/main/README.md",
   "issue_tracker": "https://github.com/BlackBat80/NC-2/issues",
   "requirements": ["aiohttp"],
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "icon": "mdi:developer-board"
 }
