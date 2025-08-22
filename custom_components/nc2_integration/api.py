@@ -91,7 +91,7 @@ class NC2ApiClient:
     async def set_luminaire_level(self, luminaire_id: int, brightness: int) -> None:
         """Set the brightness level of a luminaire."""
         path = API_LUMINAIRES_DIM.format(luminaire_id=luminaire_id)
-        payload = {"lvl": brightness, "async": True}
+        payload = {"lvl": brightness}
         await self._request("post", path, payload)
 
     async def set_luminaire_temperature(self, luminaire_id: int, temperature_mireds: int) -> None:
