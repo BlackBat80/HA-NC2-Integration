@@ -1,0 +1,11 @@
+{
+  "domain": "nc2_integration",
+  "name": "NC2 Controller",
+  "codeowners": ["@BlackBat80"],
+  "config_flow": true,
+  "dependencies": ["http", "mqtt"],
+  "documentation": "https://github.com/BlackBat80/NC-2/blob/main/README.md",
+  "issue_tracker": "https://github.com/BlackBat80/NC-2/issues",
+  "requirements": ["aiohttp"],
+  "version": "1.0.0"
+}
