@@ -1,4 +1,6 @@
-# 💡 NC-2 Controller Integration for Home Assistant
+<p align="center"><img src="icon.png" width="256"></p>
+
+# NC-2 Controller Integration for Home Assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
